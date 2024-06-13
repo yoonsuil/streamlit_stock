@@ -3,3 +3,4 @@ matplotlib
 yfinance
 pandas_ta
 numpy
+math

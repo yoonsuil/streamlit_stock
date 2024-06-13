@@ -4,6 +4,8 @@ import numpy as np
 import pandas_ta as ta
 import yfinance as yf
 import matplotlib.pyplot as plt
+import math
+import numpy as np
 
 # 데이터 로드 함수
 @st.cache_data
